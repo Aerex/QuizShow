@@ -1,0 +1,25 @@
+6
+There are 250 people lined up outside a theater. Jack is the 25th person from the front, and Jill is the 125th person from the front.<br><table width=50% border=0 cellspacing=0 cellpadding=10><tr><td width=5%><u>Quantity A</u></td><td><u>Quantity B</u></td></tr><tr><td>The number of people between Jack and Jill</td><td width=5%>100</td></table><ol type=A><li>if Quantity A is greater</li><li>if Quantity B is greater</li><li>if the two quanities are equal</li><li>if it is impossible to determine which quantity is greater</li></ol>
+Math
+2
+C
+Food can be ------- element in family life, bringing us together in times of trouble and in times of joy.<br><ol type=A><li>an addition</li><li>a conflicting</li><li>unifying</li><li>a residual</li><li>an inconsistent</li></ol>
+Language
+2
+C
+True to her altruistic beliefs, Natalie ------- the ------- attitude of her colleague that a client represented nothing more than a source of income and an opportunity for advancing one's professional reputation.<br><ol type=A><li>applauded..conscientious</li><li>condoned..aggressive</li><li>lamented..mercenary</li><li>adopted..egotistical</li><li>belittled..magnanimous</li></ol>
+Language
+4
+C
+Scientists are studying the birth and growth of thunderstorms to discover what causes the difference between showers that enable crops to ------- and ------- storms that cause floods and erosions.<br><ol type=A><li>flourish...violent</li><li>wither...damaging</li><li>grow...harmless</li><li>patch...severe</li><li>multiply...essential</li></ol>
+Language
+1
+A
+Let the lengths of the sides of a triangle be represented by x + 3, 2x - 3, and 3x - 5. If the perimeter of the triangle is 25, what is the length of the shortest side?<br><ol type=A><li>5</li><li>6</li><li>7</li><li>10</li></ol>
+Math
+3
+C
+A manager estimates that if the company charges <b>p</b>  dollars for their new product, where <b>0 &#8804; p &#8804; 200</b> , then the revenue from the product will be <b>r(p) = 20000p - 10p&#178;</b>  dollars each week. According to this model, for which of the following values of <b>p</b> would the company’s weekly revenue for the product be the greatest?<br><ol type=A><li>10</li><li>50</li><li>200</li><li>100</li></ol>
+Math
+4
+D
