@@ -1,0 +1,19 @@
+disable panels (miniUi) - current turn
+
+hightlight winner of hand - adds to winners pot
+
+accumulate jackpot (call or raise)
+
+Call button functionality (adds to jackpot)
+
+Raise button functionality (adds to jackpot via scrollbar or input number)
+
+Fold button functionality (ends round for player)
+
+turn system
+
+AI System ?
+
+Better Questions??
+
+Animation (Show answer, show new question, etc)
